@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Radu Chirila\Documents\Repo\Embedded-Neural-Networks\perceptron_module_mk1\mbed_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Radu Chirila\Documents\Repo\Embedded-Neural-Networks\perceptron_module_mk1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7789F8E3-CFEE-38FC-BD9C-37EAF9BED245}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

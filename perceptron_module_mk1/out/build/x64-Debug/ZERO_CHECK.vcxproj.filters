@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Radu Chirila\Documents\Repo\Embedded-Neural-Networks\perceptron_module_mk1\out\build\x64-Debug\CMakeFiles\b70f365185a8a75eb43fcad42e267ed0\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3D05C0D8-DC16-3E00-A185-87F6F7480DEC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,22 @@
+# ninja log v5
+1	655	6566536189023907	CMakeFiles/perceptron_module_mk1.dir/main.cpp.obj	62bca92bbaff54e7
+656	1023	6566536192133543	perceptron_module_mk1.exe	54fff25bb470e8f5
+0	355	6564463343696003	CMakeFiles/perceptron_module_mk1.dir/mbed_test.cpp.obj	62fd55f6a1506c8c
+0	470	6566536341476873	CMakeFiles/perceptron_module_mk1.dir/main.cpp.obj	62bca92bbaff54e7
+470	746	6566536343958976	perceptron_module_mk1.exe	54fff25bb470e8f5
+0	703	6566539438561913	CMakeFiles/perceptron_module_mk1.dir/main.cpp.obj	62bca92bbaff54e7
+704	1063	6566539441731586	perceptron_module_mk1.exe	54fff25bb470e8f5
+1	499	6566539529732480	CMakeFiles/perceptron_module_mk1.dir/main.cpp.obj	62bca92bbaff54e7
+501	789	6566539532292615	perceptron_module_mk1.exe	54fff25bb470e8f5
+0	702	6566542579403235	CMakeFiles/perceptron_module_mk1.dir/main.cpp.obj	62bca92bbaff54e7
+703	1121	6566542583143251	perceptron_module_mk1.exe	54fff25bb470e8f5
+0	682	6566542863624967	CMakeFiles/perceptron_module_mk1.dir/main.cpp.obj	62bca92bbaff54e7
+683	996	6566542866474955	perceptron_module_mk1.exe	54fff25bb470e8f5
+1	716	6566543405089388	CMakeFiles/perceptron_module_mk1.dir/main.cpp.obj	62bca92bbaff54e7
+717	1093	6566543408489429	perceptron_module_mk1.exe	54fff25bb470e8f5
+1	731	6566543679461110	CMakeFiles/perceptron_module_mk1.dir/main.cpp.obj	62bca92bbaff54e7
+732	1050	6566543682351414	perceptron_module_mk1.exe	54fff25bb470e8f5
+1	826	6568799905507982	CMakeFiles/perceptron_module_mk1.dir/main.cpp.obj	62bca92bbaff54e7
+827	1560	6568799911867979	perceptron_module_mk1.exe	54fff25bb470e8f5
+1	674	6568820185380892	CMakeFiles/perceptron_module_mk1.dir/main.cpp.obj	62bca92bbaff54e7
+674	1107	6568820189250869	perceptron_module_mk1.exe	54fff25bb470e8f5

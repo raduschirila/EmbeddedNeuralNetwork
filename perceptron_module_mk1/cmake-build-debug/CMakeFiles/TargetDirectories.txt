@@ -1,0 +1,3 @@
+C:/Users/Radu Chirila/Documents/Repo/Embedded-Neural-Networks/perceptron_module_mk1/cmake-build-debug/CMakeFiles/perceptron_module_mk1.dir
+C:/Users/Radu Chirila/Documents/Repo/Embedded-Neural-Networks/perceptron_module_mk1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Radu Chirila/Documents/Repo/Embedded-Neural-Networks/perceptron_module_mk1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

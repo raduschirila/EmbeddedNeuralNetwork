@@ -1,0 +1,10 @@
+^C:\USERS\RADU CHIRILA\DOCUMENTS\REPO\EMBEDDED-NEURAL-NETWORKS\PERCEPTRON_MODULE_MK1\OUT\BUILD\X64-DEBUG\CMAKEFILES\B70F365185A8A75EB43FCAD42E267ED0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Radu Chirila/Documents/Repo/Embedded-Neural-Networks/perceptron_module_mk1" "-BC:/Users/Radu Chirila/Documents/Repo/Embedded-Neural-Networks/perceptron_module_mk1/out/build/x64-Debug" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Radu Chirila/Documents/Repo/Embedded-Neural-Networks/perceptron_module_mk1/out/build/x64-Debug/perceptron_module_mk1.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
